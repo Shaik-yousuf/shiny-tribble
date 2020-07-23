@@ -1,2 +1,2 @@
-# shiny-tribble
+# code-artist
 Omnifood project
