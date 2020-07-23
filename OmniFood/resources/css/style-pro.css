@@ -236,9 +236,9 @@ header {
       from(rgba(0, 0, 0, 0.706)),
       to(rgba(0, 0, 0, 0.706))
     ),
-    url(./images/hero.jpg);
+    url(./images/hero-min.jpg);
   background-image: linear-gradient(rgba(0, 0, 0, 0.706), rgba(0, 0, 0, 0.706)),
-    url(./images/hero.jpg);
+    url(./images/hero-min.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
@@ -651,9 +651,9 @@ header {
       from(rgba(0, 0, 0, 0.8)),
       to(rgba(0, 0, 0, 0.8))
     ),
-    url(./images/back-customers.jpg);
+    url(./images/back-customers-min.jpg);
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url(./images/back-customers.jpg);
+    url(./images/back-customers-min.jpg);
   background-size: cover;
   background-attachment: fixed;
   color: #fff;
